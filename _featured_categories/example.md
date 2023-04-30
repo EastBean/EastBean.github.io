@@ -10,19 +10,9 @@ slug: 수강중인 과목
 
 # (Optional) Write a short (~150 characters) description of this featured tag.
 description: >
-  이곳에는 현재 제가 수강중인 전공 과목 및 교양 과목들이 작성되어있습니다!
+  이곳에는 현재 제가 수강중인 전공 과목 및 교양 과목들이 작성되어있습니다!        데이타 구조(전공)
 
-  데이타 구조(전공)
-
-  자바 프로그래밍 언어(전공)
-
-  Logic Design(전공)
-
-  오픈소스 소프트웨어 실습(전공)
-
-  인간관계와 자기성장(교양)
-  
-  기독교 변증학(교양)
+  자바 프로그래밍 언어(전공)  Logic Design(전공)  오픈소스 소프트웨어 실습(전공)  인간관계와 자기성장(교양)  기독교 변증학(교양)  
 
 # (Optional) You can disable grouping posts by date.
 # no_groups: true
