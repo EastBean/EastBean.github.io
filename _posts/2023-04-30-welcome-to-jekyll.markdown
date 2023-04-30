@@ -4,7 +4,10 @@ title:  "안녕하세요!"
 date:   2023-04-30 20:28:53 +0900
 categories: post update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+안녕하세요, 오늘 oss 과목 과제로 처음 jekyll을 사용해봤는데, 
+아직 너무 어색하고 힙드네요!
+앞으로도 열심히 공부해보겠습니다!
+
 
 Jekyll requires blog post files to be named according to the following format:
 
