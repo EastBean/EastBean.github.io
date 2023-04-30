@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: list
 title:  "안녕하세요!"
 date:   2023-04-30 20:28:53 +0900
 categories: post update
