@@ -2,7 +2,7 @@
 layout: list
 title:  "안녕하세요!"
 date:   2023-04-30 20:28:53 +0900
-categories: post update
+categories: jekyll update
 ---
 안녕하세요, 오늘 oss 과목 과제로 처음 jekyll을 사용해봤는데, 
 아직 너무 어색하고 힙드네요!
